@@ -43,7 +43,7 @@ hexagonal_numbers () {
 
 
   # keep at bottom :)
-  echo "\nResults:"
+  echo -e "\nResults:"
   echo "Total odd hexagonal numbers: $oddCount"
   echo "Total even hexagonal numbers: $evenCount"
   echo "Sum of odd hexagonal numbers: $oddSum"
